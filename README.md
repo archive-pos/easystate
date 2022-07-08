@@ -26,7 +26,7 @@ function Example() {
 ### New
 
 ```js
-import easyState from "easystate";
+import easyState from "easystate-hook";
 import { useEffect } from "react";
 
 function Example() {
@@ -50,13 +50,13 @@ function Example() {
 Install the package,
 
 ```
-npm i easystate
+npm i easystate-hook
 ```
 
 Import it
 
 ```js
-import easyState from "easystate";
+import easyState from "easystate-hook";
 ```
 
 Use it
